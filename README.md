@@ -5,6 +5,24 @@ Point cloud transformation program from bin file to pcd with intensity
 
 
 
+### [1] Point clouds without intensity
+`has a problem to do researches which need to use intensity of point clouds`
+
+
+
+### [2] Point clouds with intensity
+`all the points' intensity values are defined`
+
+![Screenshot from 2021-10-21 20-20-36](https://user-images.githubusercontent.com/73331241/141401889-1f0920ca-4837-4f61-9202-bc35c579e030.png)
+
+
+
+![Screenshot from 2021-10-21 20-20-26](https://user-images.githubusercontent.com/73331241/141401882-ae45bb14-f0b9-47bd-9659-2749beb5c2b1.png)
+
+
+![Screenshot from 2021-10-21 20-20-49](https://user-images.githubusercontent.com/73331241/141401905-1ebf5b52-b88d-4e78-b146-555a0f2303da.png)
+
+
 ---
 # How to do
 
