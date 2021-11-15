@@ -13,11 +13,12 @@ Point cloud transformation program from bin file to pcd with intensity
 ### [2] Point clouds with intensity
 `all the points' intensity values are defined`
 
-<img width="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141401889-1f0920ca-4837-4f61-9202-bc35c579e030.png">
+<img width = "620" height="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141814065-2bbbcf6c-26cb-4bdd-9c41-c8d7baf068ab.png">
 
-<img width="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141401882-ae45bb14-f0b9-47bd-9659-2749beb5c2b1.png">
+<img width = "320" height="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141401889-1f0920ca-4837-4f61-9202-bc35c579e030.png"> <img width = "320" height="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141401882-ae45bb14-f0b9-47bd-9659-2749beb5c2b1.png"><img width = "320" height="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141401905-1ebf5b52-b88d-4e78-b146-555a0f2303da.png">
 
-<img width="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141401905-1ebf5b52-b88d-4e78-b146-555a0f2303da.png">
+<img width = "320" height="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141814085-a09e90b6-f09e-4c92-b95b-c77c00c25d2d.png"> <img width = "320" height="300" alt="IMG" src="https://user-images.githubusercontent.com/73331241/141814101-4b8e62af-026f-42bb-9121-0da1c7b3fac2.png">
+
 
 
 ---
