@@ -1,5 +1,5 @@
 //
-// Created by zzy on 3/14/18
+// created by zzy on 3/14/18
 //
 #include <omp.h>
 #include <ctime>
